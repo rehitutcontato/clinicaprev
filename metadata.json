@@ -1,0 +1,6 @@
+{
+  "name": "Parvus Space • Arquitetura Digital para Clínicas de Elite",
+  "description": "Engenharia de software e design de ultra-luxo para clínicas médicas e odontológicas de alta performance em São Paulo e RMC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
